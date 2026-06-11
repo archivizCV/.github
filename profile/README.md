@@ -1,4 +1,4 @@
-![archivizCV Banner](./images/1.jpg)
+![archivizCV Banner](https://raw.githubusercontent.com/archivizCV/.github/main/images/1.jpg)
 
 # Inner Monologue
 
