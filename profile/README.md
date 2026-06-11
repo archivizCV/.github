@@ -1,4 +1,4 @@
-![archivizCV Banner](./images/favicon.ico)
+![archivizCV Banner](./images/1.jpg)
 
 # Inner Monologue
 
