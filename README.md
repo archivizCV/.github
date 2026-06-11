@@ -1,4 +1,4 @@
-Inner Monologue
+# Inner Monologue
 
 [archivizCV ](https://archivizcv.com/work)was conceived not merely as a solution, but as a quiet reflection on a shifting landscape.
 Born from firsthand experience as project manager within a rendering firm, it emerged at a time when the momentum of global reshuffle and urbanisation in China began to ebb. In this changing climate, architectural visualization professionals have found themselves constrained by the localised nature of their opportunities. 
