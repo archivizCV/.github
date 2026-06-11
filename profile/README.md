@@ -1,3 +1,5 @@
+![archivizCV Banner](./images/favicon.ico)
+
 # Inner Monologue
 
 [archivizCV](https://archivizcv.com/work) was conceived not merely as a solution, but as a quiet reflection on a shifting landscape. 
